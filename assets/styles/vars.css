@@ -1,0 +1,26 @@
+:root {
+    --p-primary-color: #2C1F22 !important;          /* Основной цвет success */
+    --p-button-info-background: #A3613C !important;          /* Основной цвет success */
+    --p-button-border-radius: 0 !important;          /* Основной цвет success */
+    --p-inputtext-border-radius: 0 !important;          /* Основной цвет success */
+    --p-textarea-border-radius: 0 !important;          /* Основной цвет success */
+    --p-inputnumber-button-border-radius: 0 !important;          /* Основной цвет success */
+    --p-button-info-border-color: #A3613C !important;          /* Основной цвет success */
+    --p-button-info-hover-background: #9f5426 !important;          /* Основной цвет success */
+    --p-button-info-hover-border-color: #9f5426 !important;          /* Основной цвет success */
+    --success-color-hover: #2C1F22;    /* Цвет при наведении */
+    --success-color-text: #FFFFFF;
+    --p-button-label-font-weight: 500 !important;/* Цвет текста */
+}
+
+.p-breadcrumb{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.p-breadcrumb-item-link{
+    gap: 0 !important;
+}
+
+h1,h2,h3,h4,h5,h6{
+    text-transform: uppercase;
+}
