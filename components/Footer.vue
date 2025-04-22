@@ -70,9 +70,19 @@
     </div>
     <div class="flex flex-col items-start justify-start gap-1">
       <p class="font-semibold text-sm mb-4">Контактная информация</p>
-      <a class="font-semibold border-b border-black" href="mailto:Lorem ipsum dolor sit.">iLorem ipsum dolor sit.</a>
-      <p class="font-semibold">Ежедневно с 9.00 до 21.00</p>
-      <p class="opacity-60" >Lorem ipsum dolor sit.</p>
+
+      <p class="">ООО “Деревянник”<br>
+        ИНН:5047237685<br>
+        КПП:504701001<br>
+        ОГРН:1205000004571<br>
+        Юридический адрес:<br>
+        141402, Московская область, г.о. Химки, г Химки, ул Ленинградская, д. 29<br>
+
+
+        Телефон:  <a class=" border-b border-black" href="tel:+7 (985) 027-85-85">+7 (985) 027-85-85.</a><br>
+        Почта: <a class=" border-b border-black" href="mailto:info@azbukawood.ru">info@azbukawood.ru</a>
+      </p>
+
     </div>
   </div>
   <div class="flex flex-wrap items-center justify-between pb-10 ">
